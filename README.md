@@ -14,7 +14,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Click Here!](https://github.com/Nietzchan/Product-preview-card-component)
-- Live Site URL: [Click Here!](https://your-live-site-url.com](https://nietzchan.github.io/Product-preview-card-component/)
+- Live Site URL: [Click Here!](https://nietzchan.github.io/Product-preview-card-component/)
 
 ## My process
 
