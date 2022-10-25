@@ -13,8 +13,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Nietzchan/Product-preview-card-component)
-- Live Site URL: [Add live site URL here]([https://your-live-site-url.com](https://nietzchan.github.io/Product-preview-card-component/))
+- Solution URL: [Click Here!](https://github.com/Nietzchan/Product-preview-card-component)
+- Live Site URL: [Click Here!](https://your-live-site-url.com](https://nietzchan.github.io/Product-preview-card-component/)
 
 ## My process
 
